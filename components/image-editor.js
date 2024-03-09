@@ -3,26 +3,23 @@ import "tui-image-editor/dist/tui-image-editor.css";
 
 const theme = {
   "common.bi.image": "https://speedybrand.io/images/sidebar-logo.svg",
-  "common.bisize.width": "50px",
-  "common.bisize.height": "50px",
+  "common.bisize.width": "40px",
+  "common.bisize.height": "40px",
   "common.backgroundImage": "none",
   "common.backgroundColor": "#1e1e1e",
   "common.border": "0px",
 
-  // header
   "header.backgroundImage": "none",
-  "header.backgroundColor": "transparent",
+  "header.backgroundColor": "black",
   "header.border": "0px",
 
-  // load button
   "loadButton.backgroundColor": "#fff",
   "loadButton.border": "1px solid #ddd",
   "loadButton.color": "#222",
   "loadButton.fontFamily": "NotoSans, sans-serif",
   "loadButton.fontSize": "12px",
 
-  // download button
-  "downloadButton.backgroundColor": "#fdba3b",
+  "downloadButton.backgroundColor": "#FF8C00",
   "downloadButton.border": "1px solid #fdba3b",
   "downloadButton.color": "#fff",
   "downloadButton.fontFamily": "NotoSans, sans-serif",
