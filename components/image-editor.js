@@ -25,7 +25,6 @@ const theme = {
   "downloadButton.fontFamily": "NotoSans, sans-serif",
   "downloadButton.fontSize": "12px",
 
-  // icons default
   "menu.normalIcon.color": "#8a8a8a",
   "menu.activeIcon.color": "#555555",
   "menu.disabledIcon.color": "#434343",
@@ -38,21 +37,17 @@ const theme = {
   "submenu.iconSize.width": "32px",
   "submenu.iconSize.height": "32px",
 
-  // submenu primary color
   "submenu.backgroundColor": "#1e1e1e",
   "submenu.partition.color": "#858585",
 
-  // submenu labels
   "submenu.normalLabel.color": "#858585",
   "submenu.normalLabel.fontWeight": "lighter",
   "submenu.activeLabel.color": "#fff",
   "submenu.activeLabel.fontWeight": "lighter",
 
-  // checkbox style
   "checkbox.border": "1px solid #ccc",
   "checkbox.backgroundColor": "#fff",
 
-  // rango style
   "range.pointer.color": "#fff",
   "range.bar.color": "#666",
   "range.subbar.color": "#d1d1d1",
@@ -69,7 +64,6 @@ const theme = {
   "range.title.color": "#fff",
   "range.title.fontWeight": "lighter",
 
-  // colorpicker style
   "colorpicker.button.border": "1px solid #1e1e1e",
   "colorpicker.title.color": "#fff",
 };
